@@ -1,0 +1,37 @@
+Workshop Selector
+
+The following table shows a training company’s workshops, the number of days of each, and their registration fees.
+
+
+Workshop                   Number of Days              Registration Fee
+
+
+Time Management         	2                                  $800
+Supervision Skills        	 3                          $1,500
+Negotiation                    5                                $1,300
+
+ 
+
+The training company conducts its workshops in the three locations shown in the following table. The table also shows the lodging fees per day at each location. Location Lodging Fees per Day
+
+
+Chicago                       $225
+Dallas                          $175
+Orlando                       $300
+
+ 
+
+When a customer registers for a workshop, he or she must pay the registration fee plus the lodging fees for the selected location. For example, here are the charge to attend the Supervision Skills workshop in Orlando:
+
+
+Registration: $1,500
+Lodging: $300 X 3 days = $900
+Total: $2,400
+
+ 
+
+Create an app that lets the user to select a workshop from one list box and a location from another list box. When the user clicks a button, the app should calculate and display the registration cost, the lodging cost, and the total cost.
+
+ 
+
+This Application is worth 40 Extra Credit Points
